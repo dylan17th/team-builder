@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.card{
+    box-shadow: 10px 10px 10px 10px lightgrey;
+    width: 40%;
+    padding:.5rem;
+    margin:1rem;
+    border-radius: 10px;
+}
